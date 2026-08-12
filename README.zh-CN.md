@@ -37,6 +37,7 @@
 | **Qwen Code** | 阿里巴巴通义千问团队推出的 Coding Agent CLI，现已全面支持 DeepSeek 提供商。 | [指南](./docs/qwen_code.zh-CN.md) |
 | **Reasonix** | 运行在终端内的 DeepSeek 原生编程 Agent —— Cache-First 循环，原生支持 MCP。 | [指南](./docs/reasonix.zh-CN.md) |
 | **WorkBuddy/CodeBuddy** | 支持自定义 OpenAI 兼容模型配置的 AI Agent 与编程助手。 | [指南](./docs/workbuddy.zh-CN.md) |
+| **DYWorker** | 开源的个人 AI 助手，支持skills/长期记忆/，类似Codex风格，集百家之长，支持QQ、微信消息。同时支持windows/linux/macOS全平台编译安装。 | [指南](./docs/dyworker.zh-CN.md) |
 
 ## 相关资源
 
